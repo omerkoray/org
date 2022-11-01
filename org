@@ -22,14 +22,11 @@ Sibel BİLİR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16308_M
 Emrah ÇOLAK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17271_MThumb.jpg,"Genel Müdürlük","Ticari Krediler Tahsis Yönetimi Başkanlığı 2","Başkan",B00025,GMY011
 Halit MOLLASALİHOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20636_MThumb.jpg,"Genel Müdürlük","Ticari Krediler Müdürlüğü 4","Müdür",B00026,B00025
 Onur ELEMAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21401_MThumb.jpg,"Genel Müdürlük","Ticari Krediler Müdürlüğü 5","Müdür",B00027,B00025
-Bülent ATILGAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13676_MThumb.jpg,"Genel Müdürlük","Ataşehir Kurumsal Şubesi","Koordinatör",B00029,GMY004
 Korhan TURGUT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18258_MThumb.jpg,"Genel Müdürlük","Genel Muhasebe Ve Mali İşler Başkanlığı","Başkan",B00030,GMY010
 Burcu SÜTCÜ AKDAĞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18125_MThumb.jpg,"Genel Müdürlük","Yasal Raporlamalar Müdürlüğü","Müdür",B00032,B00030
 Arzu CENGİZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18242_MThumb.jpg,"Genel Müdürlük","Mali Operasyon Müdürlüğü","Müdür",B00034,B00030
 İbrahim Zafer KORKMAZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14842_MThumb.jpg,"Genel Müdürlük","Vergi Ve Mali Mevzuat Yönetimi Müdürlüğü","Müdür",B00035,B00030
 Burcu OĞUZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19042_MThumb.jpg,"Genel Müdürlük","Finansal Kontrol Müdürlüğü","Müdür",B00036,B00030
-Mehmet UZULU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13649_MThumb.jpg,"Genel Müdürlük","Başkent Kurumsal Şubesi","Koordinatör",B00037,GMY004
-Hayati YAMAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13696_MThumb.jpg,"Genel Müdürlük","İzmir Kurumsal Şubesi","Koordinatör",B00038,GMY004
 Tevfik ERPEK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18008_MThumb.jpg,"Genel Müdürlük","Kobi Bankacılığı Pazarlama Başkanlığı","Başkan",B00039,GMY004
 Sultan Dilek AKKAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17374_MThumb.jpg,"Genel Müdürlük","Ticari Bankacılık Pazarlama Müdürlüğü","Müdür",B00042,B00069
 Sevinç SAMANGÜL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17650_MThumb.jpg,"Genel Müdürlük","Kobi Bankacılığı Pazarlama Müdürlüğü","Müdür",B00043,B00039
@@ -182,7 +179,6 @@ Mustafa SEVDİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17994_
 Muhammed Atakan SARIBAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23924_MThumb.jpg,"Genel Müdürlük","Malatya Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00324,B00367
 Sinan ARIKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18488_MThumb.jpg,"Genel Müdürlük","Çevresel Ve Sosyal Etki Analiz Müdürlüğü","Müdür",B00325,B00015
 Murat PİŞMAF,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16297_MThumb.jpg,"Genel Müdürlük","Ankara Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00332,B00367
-Hüseyin TERLEMEZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18104_MThumb.jpg,"Genel Müdürlük","Gaziantep Kurumsal Şubesi ","Koordinatör",B00337,GMY004
 Evrim DEMİR SİNER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17946_MThumb.jpg,"Genel Müdürlük","Kurumsal Krediler Müdürlüğü 2","Müdür",B00338,B00075
 Cihat ABİT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21612_MThumb.jpg,"Genel Müdürlük","İç Anadolu Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00341,B00260
 Süleyman Murat KOLİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17463_MThumb.jpg,"Genel Müdürlük","Erzurum Hukuk İşleri Müdürlüğü","Müdür",B00352,B00007
@@ -250,10 +246,6 @@ Ahmet Melik ŞENER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15
 Yavuz BEYAZBULUT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20703_MThumb.jpg,"Genel Müdürlük","Doğu Anadolu Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00701,B00260
 Adil AKYÜZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19183_MThumb.jpg,"Genel Müdürlük","Sunucu Ve Depolama Teknolojileri Yönetim Müdürlüğü","Müdür",B00711,B00280
 Cengiz KAYA,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18964_MThumb.jpg,"Genel Müdürlük","Atm Ve Çağrı Merkezi Uygulama Geliştirme Müdürlüğü","Müdür",B00712,B00220
-Mustafa ÖZBEY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14294_MThumb.jpg,"Genel Müdürlük","Kozyatağı Kurumsal Şubesi","Koordinatör",B00715,GMY004
-Nihal ÇEBİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15119_MThumb.jpg,"Genel Müdürlük","Esentepe Kurumsal Şubesi","Koordinatör",B00716,GMY004
-Metin ÖZETCİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15073_MThumb.jpg,"Genel Müdürlük","Ankara Kurumsal Şubesi","Koordinatör",B00717,GMY004
-Alparslan ŞAHİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17644_MThumb.jpg,"Genel Müdürlük","Güneşli Kurumsal Şubesi","Koordinatör",B00720,GMY004
 Fırat KIZILER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18295_MThumb.jpg,"Genel Müdürlük","Erbil Şubesi","Müdür",B00953,GMY012
 Arif ÇOKÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15550_MThumb.jpg,"Genel Müdürlük","Kredi İzleme, Değerlendirme Ve Derecelendirme Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY002,B00002
 Alaattin ŞİMŞEK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14349_MThumb.jpg,"Genel Müdürlük","Kurumsal, Ticari, Kobi Ve Perakende Bankacılığı Pazarlama Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY004,B00002
