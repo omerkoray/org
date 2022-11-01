@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-- ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/_MThumb.jpg,Genel Müdürlük,,YÖNETİM KURULU,,,,B00001,,
+YÖNETİM KURULU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/_MThumb.jpg,Genel Müdürlük,,YÖNETİM KURULU,,,,B00001,,
 Abdi Serdar ÜSTÜNSALİH,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13398_MThumb.jpg,Genel Müdürlük,,GENEL MÜDÜRLÜK ,,,GENEL MÜDÜR,B00002,B00001,
 - ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/_MThumb.jpg,Genel Müdürlük,,GÜVENLİK HİZMETLERİ MÜDÜRLÜĞÜ,,,,B00198,B00190,
 - ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/_MThumb.jpg,Genel Müdürlük,,KURUMSAL İLETİŞİM BAŞKANLIĞI,,,,B00241,GMY009,
