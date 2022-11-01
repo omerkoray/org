@@ -1,10 +1,11 @@
+name,imageUrl,area,",office,tags,isLoggedUser,positionName,id,parentId,size
 YÖNETİM KURULU,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,Corporate,,Kurul,"YK,Yönetim, Kurul",false,"Yönetim Kurulu",B00001,,
 Abdi Serdar ÜSTÜNSALİH,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13398_MThumb.jpg,"Genel Müdürlük",,Genel Müdürlük ,,false,Genel Müdür,B00002,B00001,
 Mustafa EMRE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17859_MThumb.jpg,"Genel Müdürlük",,Teftiş Kurulu Başkanlığı,,false,Başkan,B00004,B00001,
 Ali ÇALIŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15646_MThumb.jpg,"Genel Müdürlük",,İç Kontrol Başkanlığı,,false,Başkan,B00080,B00001,
 Özhan BİLGİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18154_MThumb.jpg,"Genel Müdürlük",,Risk Yönetimi Başkanlığı,,false,Başkan,B00082,B00001,
-Hidayet ÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17370_MThumb.jpg,"Genel Müdürlük",,Güvenli Bankacılık Başkanlığı,,false,Başkan,B00147,B00002,
 Ramazan SIRYOL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13680_MThumb.jpg,"Genel Müdürlük",,Uyum Ve Mevzuat Başkanlığı,,false,Başkan,B00219,B00001,
+Hidayet ÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17370_MThumb.jpg,"Genel Müdürlük",,Güvenli Bankacılık Başkanlığı,,false,Başkan,B00147,B00002,
 Ferda TUNALI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16051_MThumb.jpg,"Genel Müdürlük",,Özel Kalem Müdürlüğü,,false,Müdür,B00240,B00002,
 Ömer Faruk BAŞER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB27967_MThumb.jpg,"Genel Müdürlük",,Yönetim Kurulu İşlemleri Müdürlüğü,,false,Müdür,B00242,B00002,
 Alper ERSOY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17855_MThumb.jpg,"Genel Müdürlük",,Kredi Politikaları Ve Süreçleri Uygulama Başkanlığı,,false,Başkan,B00265,B00002,
