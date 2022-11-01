@@ -4847,3 +4847,16 @@ Muhterem GONCA,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37279_
 Esin KÜÇÜKBAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37292_MThumb.jpg,"Genel Müdürlük","Ödeme Sistemleri Uygulama Geliştirme Müdürlüğü","Bt Kıdemli Uzman 1",,B00222
 Sercan GÜNAYDIN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37293_MThumb.jpg,"Genel Müdürlük","Kariyer Yönetimi Ve Çalışan Deneyimi Müdürlüğü","Memur",,B00019
 Emir KARPUZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37294_MThumb.jpg,"Genel Müdürlük","Hazine Ve Dış İşlemler Uygulama Geliştirme Müdürlüğü","Bt Uzman 2",,B00277
+Nursema GÜLMEZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37295_MThumb.jpg,"Genel Müdürlük","Atm Ve Çağrı Merkezi Uygulama Geliştirme Müdürlüğü","Bt Uzman 2",,B00712
+Levent UZUN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37297_MThumb.jpg,"Genel Müdürlük","Ödeme Sistemleri Uygulama Geliştirme Müdürlüğü","Bt Uzman Yardımcısı",,B00222
+Hamdi ÇOLAK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37407_MThumb.jpg,"Genel Müdürlük","Ödeme Sistemleri Uygulama Geliştirme Müdürlüğü","Bt Uzman 2",,B00222
+Mustafa IŞIK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37408_MThumb.jpg,"Genel Müdürlük","Veri İletişim Müdürlüğü","Bt Kıdemli Uzman 2",,B00281
+Gökberk ÇELİKMASAT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37422_MThumb.jpg,"Genel Müdürlük","Arge Ve İnovasyon Müdürlüğü","Bt Uzman Yardımcısı",,B00250
+Furkan YILDIRIM,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB37424_MThumb.jpg,"Genel Müdürlük","Mevduat, Para Transferi Ve Yatırım Uygulama Geliştirme Müdürlüğü","Bt Uzman Yardımcısı",,B00228
+Zeynep ULAŞ ÖZCAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53400_MThumb.jpg,"Genel Müdürlük","Sağlık İşleri Müdürlüğü","Hemşire",,B00212
+Serap ÜSTÜN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53461_MThumb.jpg,"Genel Müdürlük","Halkla İlişkiler Ve Medya Müdürlüğü","Müdür Yardımcısı",,B00238
+Anlam Beyza ÖZCANLI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53475_MThumb.jpg,"Genel Müdürlük","İç İletişim Müdürlüğü","Müdür Yardımcısı",,B00253
+Nüzhet ŞAR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53476_MThumb.jpg,"Genel Müdürlük","İç İletişim Müdürlüğü","Yetkili Yardımcısı",,B00253
+Makbule Bahar KOYUNCU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53479_MThumb.jpg,"Genel Müdürlük","İç İletişim Müdürlüğü","Memur",,B00253
+Seda PARAPAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53564_MThumb.jpg,"Genel Müdürlük","Ödeme Sistemleri Uygulama Geliştirme Müdürlüğü","Bt Uzman 1",,B00222
+Eylül Beril ELMAS,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53629_MThumb.jpg,"Genel Müdürlük","Halkla İlişkiler Ve Medya Müdürlüğü","Uzman",,B00238
