@@ -3,3 +3,4 @@ YÖNETİM KURULU,https://media.cdnandroid.com/item_images/565544/imagen-vakifban
 Abdi Serdar ÜSTÜNSALİH,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13398_MThumb.jpg,GM,,Genel Müdürlük ,,,Genel Müdür,B00002,B00001,
 ARİF ÇOKÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15550_MThumb.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,GMY002,B00002,
 ALAATTİN ŞİMŞEK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14349_MThumb.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,GMY003,B00002,
+Mustafa EMRE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17859_MThumb.jpg,"Genel Müdürlük",,Teftiş Kurulu Başkanlığı,,false,Başkan,B00004,B00001,
