@@ -5,3 +5,8 @@ Mustafa EMRE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17859_MT
 Ali ÇALIŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15646_MThumb.jpg,"Genel Müdürlük",İç Kontrol Başkanlığı,Başkan,B00080,B00001
 Özhan BİLGİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18154_MThumb.jpg,"Genel Müdürlük",Risk Yönetimi Başkanlığı,Başkan,B00082,B00001
 Ramazan SIRYOL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13680_MThumb.jpg,"Genel Müdürlük",Uyum Ve Mevzuat Başkanlığı,Başkan,B00219,B00001
+Hidayet ÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17370_MThumb.jpg,"Genel Müdürlük",Güvenli Bankacılık Başkanlığı,Başkan,B00147,B00002
+Ferda TUNALI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16051_MThumb.jpg,"Genel Müdürlük",Özel Kalem Müdürlüğü,Müdür,B00240,B00002
+Ömer Faruk BAŞER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB27967_MThumb.jpg,"Genel Müdürlük",Yönetim Kurulu İşlemleri Müdürlüğü,Müdür,B00242,B00002
+Alper ERSOY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17855_MThumb.jpg,"Genel Müdürlük",Kredi Politikaları Ve Süreçleri Uygulama Başkanlığı,Başkan,B00265,B00002
+Muhammet Lütfü ÇELEBİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14351_MThumb.jpg,"Genel Müdürlük",İnsan Kaynakları Ve Kurumsal Gelişim Genel Müdür Yardımcılığı,Genel Müdür Yardımcısı,GMY001,B00002
