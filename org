@@ -1,7 +1,7 @@
 name,imageUrl,area,office,positionName,id,parentId
 Abdi Serdar ÜSTÜNSALİH,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13398_MThumb.jpg,"Genel Müdürlük","Genel Müdürlük ","Genel Müdür",B00002,B00001
-Mustafa EMRE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17859_MThumb.jpg,"Genel Müdürlük","Teftiş Kurulu Başkanlığı","Başkan",B00004,B00001
-Ali ÇALIŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15646_MThumb.jpg,"Genel Müdürlük","İç Kontrol Başkanlığı","Başkan",B00080,B00001
+Mustafa EMRE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17859_MThumb.jpg,"Genel Müdürlük","Teftiş Kurulu Başkanlığı","Başkan",B00004,B00001.1
+Ali ÇALIŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15646_MThumb.jpg,"Genel Müdürlük","İç Kontrol Başkanlığı","Başkan",B00080,B00001.1
 Mustafa Aram YARAR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20692_MThumb.jpg,"Genel Müdürlük","Özellikli Krediler Portföy Yönetimi Müdürlüğü","Müdür",B00005,B00015
 Şeref YAROĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17875_MThumb.jpg,"Genel Müdürlük","Baş Hukuk Müşavirliği","Baş Hukuk Danışmanı",B00006,GMY014
 Alp Tolga ŞİMŞEK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB29682_MThumb.jpg,"Genel Müdürlük","Hukuk İşleri Başkanlığı","Başkan",B00007,GMY014
@@ -53,9 +53,9 @@ Ahmet YILMAZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14900_MT
 İlhan ALPDAĞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13678_MThumb.jpg,"Genel Müdürlük","Kurumsal Krediler Tahsis Yönetimi Başkanlığı","Başkan",B00075,GMY011
 Eren SÜZEN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18989_MThumb.jpg,"Genel Müdürlük","Kobi, Perakende Ve Bireysel Krediler Tahsis Yönetimi Başkanlığı","Başkan",B00076,GMY011
 Tunçata Kurtçaalp HAKBİLİR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20585_MThumb.jpg,"Genel Müdürlük","Mevduat Yönetimi Ve Pazarlama Başkanlığı","Başkan",B00079,GMY005
-Özhan BİLGİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18154_MThumb.jpg,"Genel Müdürlük","Risk Yönetimi Başkanlığı","Başkan",B00082,B00001
+Özhan BİLGİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18154_MThumb.jpg,"Genel Müdürlük","Risk Yönetimi Başkanlığı","Başkan",B00082,B00001.1
 Emrah ŞENTÜRK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18818_MThumb.jpg,"Genel Müdürlük","İç Kontrol Müdürlüğü","Müdür",B00081,B00080
-Ramazan SIRYOL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13680_MThumb.jpg,"Genel Müdürlük","Uyum Ve Mevzuat Başkanlığı","Başkan",B00219,B00001
+Ramazan SIRYOL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13680_MThumb.jpg,"Genel Müdürlük","Uyum Ve Mevzuat Başkanlığı","Başkan",B00219,B00001.1
 Çağla ALGAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB24179_MThumb.jpg,"Genel Müdürlük","Kredi Riski Ve Operasyonel Risk Yönetimi Müdürlüğü","Müdür",B00088,B00082
 Ayşin ÖZDİL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19105_MThumb.jpg,"Genel Müdürlük","Piyasa Riski Yönetimi Müdürlüğü","Müdür",B00089,B00082
 Barış HAMALOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15477_MThumb.jpg,"Genel Müdürlük","Yatırım Hizmetleri Müdürlüğü","Müdür",B00092,B00130
@@ -80,7 +80,7 @@ Gizem KARACA,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB26195_MT
 Mehmet Serhat KESKİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20527_MThumb.jpg,"Genel Müdürlük","Müşteri Deneyimi Ve Yönetimi Başkanlığı","Başkan",B00143,GMY009
 Burak YÜKSEL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23788_MThumb.jpg,"Genel Müdürlük","Kredi Riski Kontrol Müdürlüğü","Müdür",B00145,B00082
 Selim Caner SAYICI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23436_MThumb.jpg,"Genel Müdürlük","Validasyon Müdürlüğü","Müdür",B00146,B00082
-Hidayet ÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17370_MThumb.jpg,"Genel Müdürlük","Güvenli Bankacılık Başkanlığı","Başkan",B00147,B00002
+Hidayet ÇETİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17370_MThumb.jpg,"Genel Müdürlük","Güvenli Bankacılık Başkanlığı","Başkan",B00147,B00002.1
 Ali Doğa ULUPINAR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19877_MThumb.jpg,"Genel Müdürlük","Kanal Ve İşlem Güvenliği Müdürlüğü","Müdür",B00148,B00147
 Ferit CANBEK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17082_MThumb.jpg,"Genel Müdürlük","Gayrimenkul Değerleme Müdürlüğü","Müdür",B00149,B00190
 Mustafa Tahir ZAZAOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21364_MThumb.jpg,"Genel Müdürlük","Kurumsal Gelişim Müdürlüğü","Müdür",B00152,B00020
@@ -114,7 +114,7 @@ Yasemin KAHVECİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB1713
 Ender BALAMAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15418_MThumb.jpg,"Genel Müdürlük","İdari Ve Mali İşler Müdürlüğü","Müdür",B00215,B00210
 Arzu EFİLTİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15379_MThumb.jpg,"Genel Müdürlük","Özel Sosyal Güvenlik Vakfı Müdürlüğü","Müdür",B00216,B00210
 Deniz YILMAZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17423_MThumb.jpg,"Genel Müdürlük","Ar-Ge, Pazarlama Ve Altyapı Uygulama Geliştirme Başkanlığı","Başkan",B00218,GMY007
-Ferda TUNALI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16051_MThumb.jpg,"Genel Müdürlük","Özel Kalem Müdürlüğü","Müdür",B00240,B00002
+Ferda TUNALI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16051_MThumb.jpg,"Genel Müdürlük","Özel Kalem Müdürlüğü","Müdür",B00240,B00002.1
 İsmail Murat TURGUT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13647_MThumb.jpg,"Genel Müdürlük","Dijital Kanallar, İş Zekası Ve Ödeme Sistemleri Uygulama Geliştirme Başkanlığı","Başkan",B00220,GMY007
 Agah Burak DEMİRKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB30981_MThumb.jpg,"Genel Müdürlük","Dijital Kanallar Uygulama Geliştirme Müdürlüğü","Müdür",B00221,B00220
 İsa İlyas USTA,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21281_MThumb.jpg,"Genel Müdürlük","Ödeme Sistemleri Uygulama Geliştirme Müdürlüğü","Müdür",B00222,B00220
@@ -127,9 +127,9 @@ Bora ÇELEBİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21250_M
 Hasan AKPINAR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18959_MThumb.jpg,"Genel Müdürlük","Bireysel Krediler Ve Sigorta Uygulama Geliştirme Müdürlüğü","Müdür",B00229,B00225
 Gönül GÖRAL ÖZTÜRK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB53316_MThumb.jpg,"Genel Müdürlük","Halkla İlişkiler Ve Medya Müdürlüğü","Müdür",B00238,B00241
 Aylin ASLAN ŞİRECİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21308_MThumb.jpg,"Genel Müdürlük","Dijital Bankacılık Müdürlüğü","Müdür",B00239,B00179
-Ömer Faruk BAŞER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB27967_MThumb.jpg,"Genel Müdürlük","Yönetim Kurulu İşlemleri Müdürlüğü","Müdür",B00242,B00002
+Ömer Faruk BAŞER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB27967_MThumb.jpg,"Genel Müdürlük","Yönetim Kurulu İşlemleri Müdürlüğü","Müdür",B00242,B00002.1
 ,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Kurumsal İletişim Başkanlığı","",B00241,GMY009
-Alper ERSOY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17855_MThumb.jpg,"Genel Müdürlük","Kredi Politikaları Ve Süreçleri Uygulama Başkanlığı","Başkan",B00265,B00002
+Alper ERSOY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17855_MThumb.jpg,"Genel Müdürlük","Kredi Politikaları Ve Süreçleri Uygulama Başkanlığı","Başkan",B00265,B00002.1
 Yavuz ARAS,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB32021_MThumb.jpg,"Genel Müdürlük","İş Zekası Ve Raporlama Müdürlüğü","Müdür",B00243,B00220
 Ant Utkan UTKU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20581_MThumb.jpg,"Genel Müdürlük","Uyum Müdürlüğü","Müdür",B00244,B00219
 Özkan BÜLBÜL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18281_MThumb.jpg,"Genel Müdürlük","Kredi Raporlama Müdürlüğü","Müdür",B00249,B00265
@@ -266,3 +266,5 @@ Muhammed Onay ÖZKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB
 Mikail HIDIR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17851_MThumb.jpg,"Genel Müdürlük","Hukuk Ve Yasal Takip Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY014,B00002
 Kadir KARATAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15585_MThumb.jpg,"Genel Müdürlük","Destek Hizmetleri Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY017,B00002
 YÖNETİM KURULU,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Yönetim Kurulu","",B00001,
+YK,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Yönetim Kuruluna Bağlı Birimler","",B00001.1,B00001
+GM,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Genel Müdüre Bağlı Birimler","",B00002.1,B00002
