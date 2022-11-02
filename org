@@ -102,7 +102,7 @@ Oğuz KÖSE,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17083_MTh
 Yakup SATOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18168_MThumb.jpg,"Genel Müdürlük","İnşaat İşleri Müdürlüğü",Çalışan : 64,Servis : 4,"Müdür",B00192,B00190
 Fikret SONGUR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15457_MThumb.jpg,"Genel Müdürlük","Lojistik Yönetimi Müdürlüğü",Çalışan : 55,Servis : 2,"Müdür",B00193,B00190
 Ahmet CERAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20533_MThumb.jpg,"Genel Müdürlük","Satın Alma Müdürlüğü",Çalışan : 21,,"Müdür",B00196,B00190
-,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Güvenlik Hizmetleri Müdürlüğü",,,"",B00198,B00190
+,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Güvenlik Hizmetleri Müdürlüğü",Çalışan : 8,Servis : 2,"",B00198,B00190
 Emiran KOCABAY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17654_MThumb.jpg,"Genel Müdürlük","Gayrimenkul Yönetimi Müdürlüğü",Çalışan : 16,Servis : 1,"Müdür",B00199,B00190
 Barış GÜVEN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17373_MThumb.jpg,"Genel Müdürlük","Emekli Ve Sağlık Yardım Sandığı Başkanlığı",,,"Başkan",B00210,GMY007
 Ebru AKTEN BOZDOĞAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16919_MThumb.jpg,"Genel Müdürlük","Sağlık İşleri Müdürlüğü",Çalışan : 30,Servis : 2,"Müdür",B00212,B00210
