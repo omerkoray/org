@@ -165,7 +165,6 @@ Ahmet ATEŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16138_MTh
 Teoman ÇELİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20553_MThumb.jpg,"Genel Müdürlük","Bilgi Sistemleri İç Kontrol Müdürlüğü","Müdür",B00303,B00080
 Turgay İNANÇ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16961_MThumb.jpg,"Genel Müdürlük","Ankara Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00304,B00260
 Alpay BULUT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17992_MThumb.jpg,"Genel Müdürlük","İzleme, Takip Ve İstihbarat Uygulama Geliştirme Müdürlüğü","Müdür",B00305,B00225
-Özgün GÜNEY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18254_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 4","Müdür",B00307,B00367
 Elif DEMİR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23046_MThumb.jpg,"Genel Müdürlük","Kobi Ve Perakende Krediler Müdürlüğü 2","Müdür",B00308,B00076
 Fatih ÇEVİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20635_MThumb.jpg,"Genel Müdürlük","Kredi Tahsis Yönetimi Koordinasyon Müdürlüğü ","Müdür",B00309,B00025
 Arzu ŞAHİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16920_MThumb.jpg,"Genel Müdürlük","Kurumsal Bankacılık Pazarlama Başkanlığı","Başkan",B00310,GMY004
@@ -174,27 +173,16 @@ Sedat TARTAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18252_MT
 Çiğdem AKAY KÖKSAL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21530_MThumb.jpg,"Genel Müdürlük","Perakende Bankacılık Pazarlama Müdürlüğü","Müdür",B00318,B00314
 Akın İSLAMOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21303_MThumb.jpg,"Genel Müdürlük","Perakende Bankacılık Satış Koordinasyon Müdürlüğü","Müdür",B00319,B00314
 Mustafa SEVDİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17994_MThumb.jpg,"Genel Müdürlük","İzleme Ve Uygulama Servisleri Yönetim Müdürlüğü","Müdür",B00322,B00280
-Muhammed Atakan SARIBAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23924_MThumb.jpg,"Genel Müdürlük","Malatya Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00324,B00367
 Sinan ARIKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18488_MThumb.jpg,"Genel Müdürlük","Çevresel Ve Sosyal Etki Analiz Müdürlüğü","Müdür",B00325,B00015
-Murat PİŞMAF,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16297_MThumb.jpg,"Genel Müdürlük","Ankara Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00332,B00367
 Evrim DEMİR SİNER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17946_MThumb.jpg,"Genel Müdürlük","Kurumsal Krediler Müdürlüğü 2","Müdür",B00338,B00075
 Cihat ABİT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21612_MThumb.jpg,"Genel Müdürlük","İç Anadolu Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00341,B00260
 Süleyman Murat KOLİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17463_MThumb.jpg,"Genel Müdürlük","Erzurum Hukuk İşleri Müdürlüğü","Müdür",B00352,B00007
 Erman ERÇİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15178_MThumb.jpg,"Genel Müdürlük","İzmir Hukuk İşleri Müdürlüğü","Müdür",B00355,B00007
 Eyüp Sabri DEMİR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17057_MThumb.jpg,"Genel Müdürlük","Ege Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00356,B00260
 Murat ÖZKADİF,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18293_MThumb.jpg,"Genel Müdürlük","Kredi Risk Tasfiye Başkanlığı","Başkan",B00367,GMY014
-Alper NEBİOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB25970_MThumb.jpg,"Genel Müdürlük","Ege Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00369,B00367
-Celaleddin ERİŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21539_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 2","Müdür",B00371,B00367
 Füruzan ÜNSAL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17393_MThumb.jpg,"Genel Müdürlük","Risk Planlama Ve İzleme Müdürlüğü 1","Müdür",B00372,B00159
-Mustafa İlker ÇAVUŞOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21787_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 1","Müdür",B00373,B00367
 Serhat DUMAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17838_MThumb.jpg,"Genel Müdürlük","Risk Planlama Ve İzleme Müdürlüğü 2","Müdür",B00374,B00159
-Hüseyin ÇEVİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18291_MThumb.jpg,"Genel Müdürlük","İstanbul Anadolu Yakası Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00375,B00367
-Medet YILMAZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16817_MThumb.jpg,"Genel Müdürlük","Samsun Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00376,B00367
-Sedef BOTASUN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13186_MThumb.jpg,"Genel Müdürlük","Antalya Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00377,B00367
-Halil İbrahim ÇELİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21341_MThumb.jpg,"Genel Müdürlük","Diyarbakır Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00378,B00367
 Gonca HAZIR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18995_MThumb.jpg,"Genel Müdürlük","Kredi İzleme Süreçleri Müdürlüğü","Müdür",B00379,B00265
-Emrah TAMER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18996_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 3","Müdür",B00380,B00367
-Enis İŞLER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18247_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Koordinasyon Müdürlüğü","Müdür",B00381,B00367
 Ali MAHMUT,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19866_MThumb.jpg,"Genel Müdürlük","Risk Planlama Ve İzleme Müdürlüğü 3","Müdür",B00382,B00159
 Onur ÇEKİCİ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18060_MThumb.jpg,"Genel Müdürlük","Risk Planlama Ve İzleme Müdürlüğü 4","Müdür",B00383,B00159
 Serkan USLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17634_MThumb.jpg,"Genel Müdürlük","Kredi İzleme Koordinasyon Müdürlüğü","Müdür",B00384,B00159
@@ -216,17 +204,14 @@ Ahmet YAMANER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB19130_M
 Atilla NAS,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18355_MThumb.jpg,"Genel Müdürlük","Akreditif Ve Vesaik İşlemleri Müdürlüğü","Müdür",B00420,B00385
 Ali TAHAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18283_MThumb.jpg,"Genel Müdürlük","Uluslararası Bankacılık Ve Yatırımcı İlişkileri Başkanlığı","Başkan",B00446,GMY012
 Selmin HAŞİMOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18395_MThumb.jpg,"Genel Müdürlük","Muhabir Bankalar Müdürlüğü","Müdür",B00447,B00446
-Ceyhun KOYUNCU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18280_MThumb.jpg,"Genel Müdürlük","İstanbul Avrupa Yakası Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00449,B00367
 Ahmet GÜRBÜZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20006_MThumb.jpg,"Genel Müdürlük","Çukurova Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00451,B00260
 Sezgin KUM,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17329_MThumb.jpg,"Genel Müdürlük","Adana Hukuk İşleri Müdürlüğü","Müdür",B00452,B00007
-Bekir Hakan ÇÜRÜK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17957_MThumb.jpg,"Genel Müdürlük","Çukurova Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00457,B00367
 Zeynep Nihan DİNCEL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21397_MThumb.jpg,"Genel Müdürlük","Yatırımcı İlişkileri Müdürlüğü","Müdür",B00459,B00446
 Çiğdem Arda MERAL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23468_MThumb.jpg,"Genel Müdürlük","Yapılandırılmış Finansman Müdürlüğü","Müdür",B00463,B00446
 Olcay ÇEÇEN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17195_MThumb.jpg,"Genel Müdürlük","İştirakler Ve Bağlı Ortaklıklar Başkanlığı","Başkan",B00470,GMY010
 Aydın ÇALIŞKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20629_MThumb.jpg,"Genel Müdürlük","İştirakler Analiz Ve Raporlama Müdürlüğü","Müdür",B00471,B00470
 Bayram MÜNYAS,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17069_MThumb.jpg,"Genel Müdürlük","Marmara Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00501,B00260
 Zekeriya SALİH,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13830_MThumb.jpg,"Genel Müdürlük","Bursa Hukuk İşleri Müdürlüğü","Müdür",B00503,B00007
-Mehmet Akif GÜLTEKİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB25553_MThumb.jpg,"Genel Müdürlük","Marmara Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00506,B00367
 Ayşegül BÜYÜKKAYALAR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB14466_MThumb.jpg,"Genel Müdürlük","Trakya Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00517,B00260
 Ayşe ARISOY DOKUMACI,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16947_MThumb.jpg,"Genel Müdürlük","Bakırköy Bölge Finansal Değerlendirme Müdürlüğü","Müdür",B00518,B00260
 Gonca AVUÇ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB20528_MThumb.jpg,"Genel Müdürlük","Özel Bankacılık Müdürlüğü","Müdür",B00531,B00060
@@ -252,6 +237,21 @@ Hazım AKYOL,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13689_MT
 Muhammed Onay ÖZKAN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17658_MThumb.jpg,"Genel Müdürlük","Hazine Yönetimi Ve Uluslararası Bankacılık Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY012,B00002
 Mikail HIDIR,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17851_MThumb.jpg,"Genel Müdürlük","Hukuk Ve Yasal Takip Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY014,B00002
 Kadir KARATAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB15585_MThumb.jpg,"Genel Müdürlük","Destek Hizmetleri Genel Müdür Yardımcılığı","Genel Müdür Yardımcısı",GMY017,B00002
+Enis İŞLER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18247_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Koordinasyon Müdürlüğü","Müdür",B00381,B00367
+Mustafa İlker ÇAVUŞOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21787_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 1","Müdür",B00373,B00367
+Celaleddin ERİŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21539_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 2","Müdür",B00371,B00367
+Emrah TAMER,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18996_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 3","Müdür",B00380,B00367
+Özgün GÜNEY,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18254_MThumb.jpg,"Genel Müdürlük","Risk Tasfiye Ve Tahsil Müdürlüğü 4","Müdür",B00307,B00367
+Murat PİŞMAF,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16297_MThumb.jpg,"Genel Müdürlük","Ankara Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00332,B00367
+Hüseyin ÇEVİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18291_MThumb.jpg,"Genel Müdürlük","İstanbul Anadolu Yakası Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00375,B00367
+Ceyhun KOYUNCU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB18280_MThumb.jpg,"Genel Müdürlük","İstanbul Avrupa Yakası Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00449,B00367
+Mehmet Akif GÜLTEKİN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB25553_MThumb.jpg,"Genel Müdürlük","Marmara Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00506,B00367
+Alper NEBİOĞLU,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB25970_MThumb.jpg,"Genel Müdürlük","Ege Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00369,B00367
+Medet YILMAZ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB16817_MThumb.jpg,"Genel Müdürlük","Samsun Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00376,B00367
+Sedef BOTASUN,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB13186_MThumb.jpg,"Genel Müdürlük","Antalya Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00377,B00367
+Halil İbrahim ÇELİK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB21341_MThumb.jpg,"Genel Müdürlük","Diyarbakır Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00378,B00367
+Bekir Hakan ÇÜRÜK,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB17957_MThumb.jpg,"Genel Müdürlük","Çukurova Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00457,B00367
+Muhammed Atakan SARIBAŞ,https://bizimyerimiz/my/User%20Photos/Profile%20Pictures/VB23924_MThumb.jpg,"Genel Müdürlük","Malatya Bölge Kredi Yapılandırma Ve Risk Tasfiye Müdürlüğü","Müdür",B00324,B00367
 YÖNETİM KURULU,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Yönetim Kurulu","",B00001,
 YK,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Yönetim Kuruluna Bağlı Birimler","",B00001.1,B00001
 GM,https://media.cdnandroid.com/item_images/565544/imagen-vakifbank-mobil-bankacilik-0ori.jpg,"Genel Müdürlük","Genel Müdüre Bağlı Birimler","",B00002.1,B00002
